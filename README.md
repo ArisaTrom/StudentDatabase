@@ -1,11 +1,17 @@
 # StudentDatabase
+<br>
 
-### Arisa Takenaka Trombley
-### 2375446
-### trombley@chapman.edu
-### CPSC-408-02
-### Assignment 1
-
+Arisa Takenaka Trombley
+<br> 
+2375446
+<br> 
+trombley@chapman.edu
+<br> 
+CPSC-408-02
+<br> 
+Assignment 1
+<br> 
+<br> 
 Files: 
 Assignment1.py
 

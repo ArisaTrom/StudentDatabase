@@ -6,4 +6,7 @@
 ### CPSC-408-02
 ### Assignment 1
 
+Files: 
+Assignment1.py
+
 Comments: I could have been a little more Object Oriented, although, the program itself is quite organized.
